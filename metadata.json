@@ -1,0 +1,6 @@
+{
+  "name": "AI Traffic Management Agent",
+  "description": "Intelligent Traffic Analysis & Decision Support - Real-time traffic analysis and AI-assisted operational decision support prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
